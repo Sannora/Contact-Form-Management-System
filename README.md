@@ -33,3 +33,35 @@ Users in the app are stored in the *users.json* document in the backend and they
   Reports
 
 Admin users can reach a basic visualisation of the user messages' data reports in this component. Gender and the country information of the message owners' are visualised as graphs of bar and pie charts.
+
+**Screenshots with Mobile Views**
+
+Login Page:
+
+![login](https://github.com/user-attachments/assets/1ac9f1da-c741-4b64-b528-37c83dcef048)
+![login-mobile](https://github.com/user-attachments/assets/3ab636be-30e9-4c26-9e2f-cb053677785d)
+
+Home:
+
+![home](https://github.com/user-attachments/assets/df40d1a4-2150-4e89-b004-126be4af2634)
+![home-mobile](https://github.com/user-attachments/assets/04e72e45-5ad5-4fda-8ce7-2b8439399ead)
+
+Messages:
+
+![messages](https://github.com/user-attachments/assets/635b3a9f-9967-42e7-bee4-3c4eef121b0e)
+![messages-mobile](https://github.com/user-attachments/assets/fb602713-ac4b-4eae-b4c5-5362c1f34f60)
+
+Users:
+
+![users](https://github.com/user-attachments/assets/49594837-cb62-4822-a9fc-8b26cc437213)
+![users-mobile](https://github.com/user-attachments/assets/4d7c3f47-ad64-4d9c-b4e0-a3a69616dd84)
+
+Add New User:
+
+![add-new-user](https://github.com/user-attachments/assets/e918ae5a-2112-4c92-8020-d2caba15ec59)
+
+Reports:
+
+![reports](https://github.com/user-attachments/assets/ae58c3e8-f3f3-4331-948d-186dad54cc65)
+![reports-mobile1](https://github.com/user-attachments/assets/7e9a8be9-d14b-4005-888c-d98d38a851cd)
+![reports-mobile2](https://github.com/user-attachments/assets/eb426266-1a18-4e72-89a6-1cc56b593b7f)
