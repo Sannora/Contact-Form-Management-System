@@ -41,10 +41,11 @@ Login Page:
 ![login](https://github.com/user-attachments/assets/1ac9f1da-c741-4b64-b528-37c83dcef048)
 ![login-mobile](https://github.com/user-attachments/assets/3ab636be-30e9-4c26-9e2f-cb053677785d)
 
-Home:
+Home and Header:
 
 ![home](https://github.com/user-attachments/assets/df40d1a4-2150-4e89-b004-126be4af2634)
 ![home-mobile](https://github.com/user-attachments/assets/04e72e45-5ad5-4fda-8ce7-2b8439399ead)
+![header-mobile](https://github.com/user-attachments/assets/2a0ad485-9ee4-49a2-b6d4-c18dcfcecce5)
 
 Messages:
 
